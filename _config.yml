@@ -14,8 +14,8 @@ author: Anonymous Authors
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Download: 
-  - [get the PDF]({{ https://aauthor.github.io }}/assets/Supplementary.pdf) directly.
+ # Download: 
+  #- [get the PDF]({{ https://aauthor.github.io }}/assets/Supplementary.pdf) directly.
 
 # --- Logo --- #
 
