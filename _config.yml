@@ -6,8 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: PRICAI-2021 Submission 22
-subtitle: Supplementary Documentation
+title: PRICAI-2021 Submission 22 -- Supplementary Documentation
 
 # Your name to show in the footer
 author: Anonymous Authors
@@ -16,6 +15,7 @@ author: Anonymous Authors
 
 navbar-links:
   Download: 
+  - [get the PDF]({{ https://aauthor.github.io }}/assets/Supplementary.pdf) directly.
 
 # --- Logo --- #
 
